@@ -1,0 +1,17 @@
+.App {
+  width:98%;
+  margin: auto;
+}
+nav{
+  height:50px;
+  display:flex;
+  justify-content:space-between;
+}
+.link-items ul{
+ 
+}
+nav li{
+  list-style: none;
+}
+
+
